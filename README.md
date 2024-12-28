@@ -12,8 +12,9 @@ This module is built to stay compatible with **new Instagram releases** by lever
 ## ✨ Features  
 
 ### 🎛️ Developer Options  
-- Unlock hidden developer tools within Instagram.  
-- **Note:** Developer Options should only be used with **Alpha** or **Beta** versions of Instagram.  
+- Access hidden developer tools within Instagram for advanced functionality.  
+- **Note:** These options are intended for use with **Alpha** or **Beta** versions of Instagram.  
+- Ensure you are signed in before enabling Developer Options through the module and follow the provided guide for proper setup.
 
 ### 👻 Ghost Mode  
 - Stay incognito while browsing stories, lives, or DMs.    
@@ -26,16 +27,26 @@ This module is built to stay compatible with **new Instagram releases** by lever
   3. Launch Instagram for a clean experience.  
 
 ### 🚫 Remove Ads  
-- Declutter your feed by removing intrusive ads.  
+- Declutter your feed by removing intrusive ads.
+
+### 📉 Remove Analytics  
+- Block Instagram's tracking and analytics to protect your privacy.  
+- Prevent unnecessary data sharing and usage metrics.  
 
 ---
 
 ## 🛠️ Installation Instructions  
+---
+⚠️ Install Instagram from [APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/), as the module doesn't fully support Google play store versions yet!
+---
 
 ### 1️⃣ Install the Module  
 - Download and install the **InstaEclipse APK**. You can find the latest release [here](https://github.com/ReSo7200/InstaEclipse/releases).  
 
-### 2️⃣ Enable the Module in LSPosed  
+### 2️⃣ Enable the Module in LSPosed
+---
+⚠️ Make sure you are using the latest LSPosed Fork by [JingMatrix](https://github.com/JingMatrix/LSPosed)
+---
 - Open the **LSPosed Manager**.  
 - Enable the **InstaEclipse Module** for the **Instagram app**.  
 
@@ -75,7 +86,8 @@ Force stop Instagram and **clear its cache** to apply the changes properly.
 ## 📂 Resources  
 
 - 🐙 **GitHub Repository:** [Explore InstaEclipse](https://github.com/ReSo7200/InstaEclipse)  
-- 💬 **Support & Updates:** [Telegram Channel](https://t.me/InstaEclipse)  
+- 💬 **Support & Updates:** [Telegram Channel](https://t.me/InstaEclipse)
+- ⚙️ **LSPosed - Fork By [JingMatrix](https://github.com/JingMatrix/)** [LSPosed](https://github.com/JingMatrix/LSPosed)
 
 ---
 
@@ -91,7 +103,8 @@ Force stop Instagram and **clear its cache** to apply the changes properly.
 ### 🙌 Special Thanks to:  
 - [xHookman](https://github.com/ReSo7200/)  
 - **Amàzing World** 
-- **Bluepapilte (MyInsta Mod Owner)** [Telegram](https://t.me/instasmashrepo)  
+- **Bluepapilte (MyInsta Mod Owner)** [Telegram](https://t.me/instasmashrepo)
+- **BdrcnAYYDIN** [Telegram](https://t.me/BdrcnAYYDIN)
 
 ---
 
