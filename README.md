@@ -18,6 +18,9 @@ This module is built to stay compatible with **new Instagram releases** by lever
 
 ### 👻 Ghost Mode
 - Stay incognito while browsing stories, lives, or DMs.
+- No screenshot notifications sent.
+- View "view once" media more than once.
+- Hide your typing status in DMs.
 
 ### 🧘 Distraction-Free Mode
 - Enjoy Instagram without stories, reels, or explore feed distractions.  
@@ -27,7 +30,7 @@ This module is built to stay compatible with **new Instagram releases** by lever
   3. Launch Instagram for a clean experience.
 
 ### 🚫 Remove Ads
-- Removes most of Instagram's app ads (excluding feed ads).
+- Get rid of all Instagram ads.
 
 ### 📉 Remove Analytics
 - Block Instagram's tracking and analytics to protect your privacy.  
@@ -36,6 +39,7 @@ This module is built to stay compatible with **new Instagram releases** by lever
 ### 🔧 Misc Options
 - Disable Auto Story Flipping.  
 - Disable Auto Play Videos.
+- Following indicator
 </details>
 
 
@@ -105,7 +109,7 @@ Force stop Instagram and **clear its cache** to apply the changes properly.
 
 ### 💡 Contributors
 - [frknkrc44](https://github.com/frknkrc44)
-
+- [BrianML](https://github.com/brianml31)
 
 ## 🙌 Special Thanks
 - [xHookman](https://github.com/xHookman)  
