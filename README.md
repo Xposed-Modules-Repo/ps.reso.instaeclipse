@@ -14,7 +14,7 @@ This module is built to stay compatible with **new Instagram releases** by lever
 
 ### 🎛️ Developer Options
 - Access hidden developer tools within Instagram for advanced functionality.  
-- **Note:** These options are intended for use with **Alpha** or **Beta** versions of Instagram.  
+- **Note:** These options are intended for use with **Alpha** or **Beta** versions of Instagram. (Beta is better) 
 
 ### 👻 Ghost Mode
 - Stay incognito while browsing stories, lives, or DMs.
@@ -39,37 +39,51 @@ This module is built to stay compatible with **new Instagram releases** by lever
 ### 🔧 Misc Options
 - Disable Auto Story Flipping.  
 - Disable Auto Play Videos.
-- Following indicator
+- Follower indicator
 </details>
 
 
 <details>
-<summary><h2>🛠️ Installation Instructions </h2></summary>
+<summary><h2>🛠️ Installation Instructions</h2></summary>
 
-⚠️ Install Instagram from [APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/), as the module doesn't fully support Google Play Store versions yet!
+⚠️ Install Instagram from [APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/), as the module may not fully support Google Play Store versions.
 
-### 1️⃣ Install the Module
+---
+
+ **Install the Module**  
 - Download and install the **InstaEclipse APK**. You can find the latest release [here](https://github.com/ReSo7200/InstaEclipse/releases).
 
-### 2️⃣ Enable the Module in LSPosed
-⚠️ Make sure you are using the latest LSPosed Fork by [JingMatrix](https://github.com/JingMatrix/LSPosed).
+### ✅ Root Users (LSPosed)
 
-- Open the **LSPosed Manager**.  
-- Enable the **InstaEclipse Module** for the **Instagram app**.
 
-### 3️⃣ Open the Module
-- Launch **InstaEclipse**.
+1️⃣ **Enable the Module in LSPosed**  
+- Make sure you're using the latest **LSPosed fork by [JingMatrix](https://github.com/JingMatrix/LSPosed)**.  
+- Open **LSPosed Manager** and enable **InstaEclipse** for the **Instagram app**.
 
-### 4️⃣ Configure Your Features
-- Go to the **Features Tab**.  
-- Select the features you want to enable or customize.  
-- Save your preferences.
+2️⃣ **Access the Features**  
+- Open **Instagram**, then **long-press the search icon** to access InstaEclipse settings.
 
-### 5️⃣ Restart Instagram
-- Go back to the **Home Tab** in the InstaEclipse module.  
-- Click **Restart Instagram**.
+---
+
+### 🟡 Non-Root Users (LSPatch)
+
+1️⃣ **Install LSPatch (JingMatrix Fork)**  
+- Download and install the **LSPatch fork by [JingMatrix](https://github.com/JingMatrix/LSPatch)**.
+
+2️⃣ **Patch Instagram**  
+- Patch the **installed Instagram** or an **APK**.
+- Use **Local Patch Mode**.
+- Enable **"Inject loader dex"** in patch settings.
+- Install the patched APK and log in to Instagram.
+
+3️⃣ **Enable the Module in LSPatch**  
+- Reopen **LSPatch**, go to the module list, and enable **InstaEclipse** for **Instagram**.
+
+4️⃣ **Access the Features**  
+- Open **Instagram**, then **long-press the search icon** to access InstaEclipse settings.
 
 </details>
+
 
 <details>
 
@@ -110,6 +124,7 @@ Force stop Instagram and **clear its cache** to apply the changes properly.
 ### 💡 Contributors
 - [frknkrc44](https://github.com/frknkrc44)
 - [BrianML](https://github.com/brianml31)
+- [silvzr](https://github.com/silvzr)
 
 ## 🙌 Special Thanks
 - [xHookman](https://github.com/xHookman)  
