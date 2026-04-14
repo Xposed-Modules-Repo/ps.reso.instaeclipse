@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="InstaEclipse" width="120" />
+  <img src="https://github.com/ReSo7200/InstaEclipse/blob/main/assets/logo.png" alt="InstaEclipse" width="120" />
   <h1>InstaEclipse</h1>
   <p>A powerful LSPosed module that enhances your Instagram experience.</p>
 
